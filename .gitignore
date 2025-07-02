@@ -1,6 +1,11 @@
 datasets
+dataset
 SRS
-
+images
+OGAUC_model
+runs
+YOLOv8
+dataset2_simple_nano
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
